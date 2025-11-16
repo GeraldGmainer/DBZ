@@ -1,0 +1,1810 @@
+fileFormatVersion: 2
+guid: 2c15df081fd23354da7dc1f8f551f713
+timeCreated: 1448720247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: goku_belt
+    100004: goku_blendShapes
+    100006: goku_DO_NOT_TOUCH_GRP5
+    100008: goku_geo
+    100010: goku_hair
+    100012: goku_hair01_1_skin_JNT
+    100014: goku_hair01_2_skin_JNT
+    100016: goku_hair01_3_skin_JNT
+    100018: goku_hair01_4_skin_JNT
+    100020: goku_hair02_1_skin_JNT
+    100022: goku_hair02_2_skin_JNT
+    100024: goku_hair02_3_skin_JNT
+    100026: goku_hair02_4_skin_JNT
+    100028: goku_hair02_5_skin_JNT
+    100030: goku_hair03_1_skin_JNT
+    100032: goku_hair03_2_skin_JNT
+    100034: goku_hair03_3_skin_JNT
+    100036: goku_hair04_1_skin_JNT
+    100038: goku_hair04_2_skin_JNT
+    100040: goku_hair04_3_skin_JNT
+    100042: goku_hair04_4_skin_JNT
+    100044: goku_hair05_1_skin_JNT
+    100046: goku_hair05_2_skin_JNT
+    100048: goku_hair05_3_skin_JNT
+    100050: goku_hair05_4_skin_JNT
+    100052: goku_hair06_1_skin_JNT
+    100054: goku_hair06_2_skin_JNT
+    100056: goku_hair06_3_skin_JNT
+    100058: goku_hair06_4_skin_JNT
+    100060: goku_hair07_1_skin_JNT
+    100062: goku_hair07_2_skin_JNT
+    100064: goku_hair07_3_skin_JNT
+    100066: goku_hair07_4_skin_JNT
+    100068: goku_hair07_5_skin_JNT
+    100070: goku_hair08_1_skin_JNT
+    100072: goku_hair08_2_skin_JNT
+    100074: goku_hair08_3_skin_JNT
+    100076: goku_hair08_4_skin_JNT
+    100078: goku_hair09_1_skin_JNT
+    100080: goku_hair09_2_skin_JNT
+    100082: goku_hair09_3_skin_JNT
+    100084: goku_hair10_1_skin_JNT
+    100086: goku_hair10_2_skin_JNT
+    100088: goku_hair10_3_skin_JNT
+    100090: goku_hair11_1_skin_JNT
+    100092: goku_hair11_2_skin_JNT
+    100094: goku_hair11_3_skin_JNT
+    100096: goku_hair11_4_skin_JNT
+    100098: goku_hair12_1_skin_JNT
+    100100: goku_hair12_2_skin_JNT
+    100102: goku_hair12_3_skin_JNT
+    100104: goku_hair13_1_skin_JNT
+    100106: goku_hair13_2_skin_JNT
+    100108: goku_hair13_3_skin_JNT
+    100110: goku_hair13_4_skin_JNT
+    100112: goku_hair14_1_skin_JNT
+    100114: goku_hair14_2_skin_JNT
+    100116: goku_hair14_3_skin_JNT
+    100118: goku_hair14_4_skin_JNT
+    100120: goku_hair_JNT
+    100122: goku_head
+    100124: goku_left_arm
+    100126: goku_left_boots
+    100128: goku_left_eye
+    100130: goku_left_sweatband
+    100132: goku_leftBall_skin_JNT
+    100134: goku_leftFoot_skin_JNT
+    100136: goku_leftForeArm_seg1_skin_JNT
+    100138: goku_leftForeArm_seg3_skin_JNT
+    100140: goku_leftHand_GRP
+    100142: goku_leftHandBase_result_JNT
+    100144: goku_leftHandBase_skin_JNT
+    100146: goku_leftMiddle1_skin_JNT
+    100148: goku_leftMiddle2_skin_JNT
+    100150: goku_leftMiddle3_skin_JNT
+    100152: goku_leftPinky1_skin_JNT
+    100154: goku_leftPinky2_skin_JNT
+    100156: goku_leftPinky3_skin_JNT
+    100158: goku_leftPointer1_skin_JNT
+    100160: goku_leftPointer2_skin_JNT
+    100162: goku_leftPointer3_skin_JNT
+    100164: goku_leftRing1_skin_JNT
+    100166: goku_leftRing2_skin_JNT
+    100168: goku_leftRing3_skin_JNT
+    100170: goku_leftShin_skin_JNT
+    100172: goku_leftShoulderBase_skin_JNT
+    100174: goku_leftThigh_skin_JNT
+    100176: goku_leftThumb1_skin_JNT
+    100178: goku_leftThumb2_skin_JNT
+    100180: goku_leftThumb_orbit_orient_JNT
+    100182: goku_leftThumb_orbit_result_JNT
+    100184: goku_leftThumb_straight_JNT
+    100186: goku_leftThumbBase_result_JNT
+    100188: goku_leftThumbBase_skin_JNT
+    100190: goku_leftToe_skin_JNT
+    100192: goku_leftUpperArm_seg1_skin_JNT
+    100194: goku_leftUpperArm_seg3_skin_JNT
+    100196: goku_neck_base_skin_JNT
+    100198: goku_neck_end_skin_JNT
+    100200: goku_right_arm
+    100202: goku_right_boots
+    100204: goku_right_eye
+    100206: goku_right_sweatband
+    100208: goku_rightBall_skin_JNT
+    100210: goku_rightFoot_skin_JNT
+    100212: goku_rightForeArm_seg1_skin_JNT
+    100214: goku_rightForeArm_seg3_skin_JNT
+    100216: goku_rightHandBase_skin_JNT
+    100218: goku_rightMiddle1_skin_JNT
+    100220: goku_rightMiddle2_skin_JNT
+    100222: goku_rightMiddle3_skin_JNT
+    100224: goku_rightPinky1_skin_JNT
+    100226: goku_rightPinky2_skin_JNT
+    100228: goku_rightPinky3_skin_JNT
+    100230: goku_rightPointer1_skin_JNT
+    100232: goku_rightPointer2_skin_JNT
+    100234: goku_rightPointer3_skin_JNT
+    100236: goku_rightRing1_skin_JNT
+    100238: goku_rightRing2_skin_JNT
+    100240: goku_rightRing3_skin_JNT
+    100242: goku_rightShin_skin_JNT
+    100244: goku_rightShoulderBase_skin_JNT
+    100246: goku_rightThigh_skin_JNT
+    100248: goku_rightThumb1_skin_JNT
+    100250: goku_rightThumb2_skin_JNT
+    100252: goku_rightThumb_orbit_skin_JNT
+    100254: goku_rightThumbBase_skin_JNT
+    100256: goku_rightUpperArm_seg1_skin_JNT
+    100258: goku_rightUpperArm_seg3_skin_JNT
+    100260: goku_root_transform_CTRL
+    100262: goku_shirt
+    100264: goku_spine1_skin_JNT
+    100266: goku_spine3_skin_JNT
+    100268: goku_spine5_skin_JNT
+    100270: goku_spine7_skin_JNT
+    100272: goku_suit_pants
+    100274: goku_suit_shirt
+    400000: //RootNode
+    400002: goku_belt
+    400004: goku_blendShapes
+    400006: goku_DO_NOT_TOUCH_GRP5
+    400008: goku_geo
+    400010: goku_hair
+    400012: goku_hair01_1_skin_JNT
+    400014: goku_hair01_2_skin_JNT
+    400016: goku_hair01_3_skin_JNT
+    400018: goku_hair01_4_skin_JNT
+    400020: goku_hair02_1_skin_JNT
+    400022: goku_hair02_2_skin_JNT
+    400024: goku_hair02_3_skin_JNT
+    400026: goku_hair02_4_skin_JNT
+    400028: goku_hair02_5_skin_JNT
+    400030: goku_hair03_1_skin_JNT
+    400032: goku_hair03_2_skin_JNT
+    400034: goku_hair03_3_skin_JNT
+    400036: goku_hair04_1_skin_JNT
+    400038: goku_hair04_2_skin_JNT
+    400040: goku_hair04_3_skin_JNT
+    400042: goku_hair04_4_skin_JNT
+    400044: goku_hair05_1_skin_JNT
+    400046: goku_hair05_2_skin_JNT
+    400048: goku_hair05_3_skin_JNT
+    400050: goku_hair05_4_skin_JNT
+    400052: goku_hair06_1_skin_JNT
+    400054: goku_hair06_2_skin_JNT
+    400056: goku_hair06_3_skin_JNT
+    400058: goku_hair06_4_skin_JNT
+    400060: goku_hair07_1_skin_JNT
+    400062: goku_hair07_2_skin_JNT
+    400064: goku_hair07_3_skin_JNT
+    400066: goku_hair07_4_skin_JNT
+    400068: goku_hair07_5_skin_JNT
+    400070: goku_hair08_1_skin_JNT
+    400072: goku_hair08_2_skin_JNT
+    400074: goku_hair08_3_skin_JNT
+    400076: goku_hair08_4_skin_JNT
+    400078: goku_hair09_1_skin_JNT
+    400080: goku_hair09_2_skin_JNT
+    400082: goku_hair09_3_skin_JNT
+    400084: goku_hair10_1_skin_JNT
+    400086: goku_hair10_2_skin_JNT
+    400088: goku_hair10_3_skin_JNT
+    400090: goku_hair11_1_skin_JNT
+    400092: goku_hair11_2_skin_JNT
+    400094: goku_hair11_3_skin_JNT
+    400096: goku_hair11_4_skin_JNT
+    400098: goku_hair12_1_skin_JNT
+    400100: goku_hair12_2_skin_JNT
+    400102: goku_hair12_3_skin_JNT
+    400104: goku_hair13_1_skin_JNT
+    400106: goku_hair13_2_skin_JNT
+    400108: goku_hair13_3_skin_JNT
+    400110: goku_hair13_4_skin_JNT
+    400112: goku_hair14_1_skin_JNT
+    400114: goku_hair14_2_skin_JNT
+    400116: goku_hair14_3_skin_JNT
+    400118: goku_hair14_4_skin_JNT
+    400120: goku_hair_JNT
+    400122: goku_head
+    400124: goku_left_arm
+    400126: goku_left_boots
+    400128: goku_left_eye
+    400130: goku_left_sweatband
+    400132: goku_leftBall_skin_JNT
+    400134: goku_leftFoot_skin_JNT
+    400136: goku_leftForeArm_seg1_skin_JNT
+    400138: goku_leftForeArm_seg3_skin_JNT
+    400140: goku_leftHand_GRP
+    400142: goku_leftHandBase_result_JNT
+    400144: goku_leftHandBase_skin_JNT
+    400146: goku_leftMiddle1_skin_JNT
+    400148: goku_leftMiddle2_skin_JNT
+    400150: goku_leftMiddle3_skin_JNT
+    400152: goku_leftPinky1_skin_JNT
+    400154: goku_leftPinky2_skin_JNT
+    400156: goku_leftPinky3_skin_JNT
+    400158: goku_leftPointer1_skin_JNT
+    400160: goku_leftPointer2_skin_JNT
+    400162: goku_leftPointer3_skin_JNT
+    400164: goku_leftRing1_skin_JNT
+    400166: goku_leftRing2_skin_JNT
+    400168: goku_leftRing3_skin_JNT
+    400170: goku_leftShin_skin_JNT
+    400172: goku_leftShoulderBase_skin_JNT
+    400174: goku_leftThigh_skin_JNT
+    400176: goku_leftThumb1_skin_JNT
+    400178: goku_leftThumb2_skin_JNT
+    400180: goku_leftThumb_orbit_orient_JNT
+    400182: goku_leftThumb_orbit_result_JNT
+    400184: goku_leftThumb_straight_JNT
+    400186: goku_leftThumbBase_result_JNT
+    400188: goku_leftThumbBase_skin_JNT
+    400190: goku_leftToe_skin_JNT
+    400192: goku_leftUpperArm_seg1_skin_JNT
+    400194: goku_leftUpperArm_seg3_skin_JNT
+    400196: goku_neck_base_skin_JNT
+    400198: goku_neck_end_skin_JNT
+    400200: goku_right_arm
+    400202: goku_right_boots
+    400204: goku_right_eye
+    400206: goku_right_sweatband
+    400208: goku_rightBall_skin_JNT
+    400210: goku_rightFoot_skin_JNT
+    400212: goku_rightForeArm_seg1_skin_JNT
+    400214: goku_rightForeArm_seg3_skin_JNT
+    400216: goku_rightHandBase_skin_JNT
+    400218: goku_rightMiddle1_skin_JNT
+    400220: goku_rightMiddle2_skin_JNT
+    400222: goku_rightMiddle3_skin_JNT
+    400224: goku_rightPinky1_skin_JNT
+    400226: goku_rightPinky2_skin_JNT
+    400228: goku_rightPinky3_skin_JNT
+    400230: goku_rightPointer1_skin_JNT
+    400232: goku_rightPointer2_skin_JNT
+    400234: goku_rightPointer3_skin_JNT
+    400236: goku_rightRing1_skin_JNT
+    400238: goku_rightRing2_skin_JNT
+    400240: goku_rightRing3_skin_JNT
+    400242: goku_rightShin_skin_JNT
+    400244: goku_rightShoulderBase_skin_JNT
+    400246: goku_rightThigh_skin_JNT
+    400248: goku_rightThumb1_skin_JNT
+    400250: goku_rightThumb2_skin_JNT
+    400252: goku_rightThumb_orbit_skin_JNT
+    400254: goku_rightThumbBase_skin_JNT
+    400256: goku_rightUpperArm_seg1_skin_JNT
+    400258: goku_rightUpperArm_seg3_skin_JNT
+    400260: goku_root_transform_CTRL
+    400262: goku_shirt
+    400264: goku_spine1_skin_JNT
+    400266: goku_spine3_skin_JNT
+    400268: goku_spine5_skin_JNT
+    400270: goku_spine7_skin_JNT
+    400272: goku_suit_pants
+    400274: goku_suit_shirt
+    4300000: goku_hair
+    4300002: goku_left_eye
+    4300004: goku_right_eye
+    4300006: goku_suit_shirt
+    4300008: goku_suit_pants
+    4300010: goku_shirt
+    4300012: goku_belt
+    4300014: goku_left_arm
+    4300016: goku_left_sweatband
+    4300018: goku_left_boots
+    4300020: goku_right_arm
+    4300022: goku_right_sweatband
+    4300024: goku_right_boots
+    4300026: goku_head
+    7400000: idle
+    9500000: //RootNode
+    13700000: goku_belt
+    13700002: goku_hair
+    13700004: goku_head
+    13700006: goku_left_arm
+    13700008: goku_left_boots
+    13700010: goku_left_eye
+    13700012: goku_left_sweatband
+    13700014: goku_right_arm
+    13700016: goku_right_boots
+    13700018: goku_right_eye
+    13700020: goku_right_sweatband
+    13700022: goku_shirt
+    13700024: goku_suit_pants
+    13700026: goku_suit_shirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nDefault bone length found in this file is different
+      form the one found in the source avatar:\n\t'goku_leftThigh_skin_JNT' : position
+      error = 2.684246 mm\n\t'goku_rightThigh_skin_JNT' : position error = 3.111974
+      mm\n\nClip 'Take 001' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'goku_spine3_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_spine7_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_spine7_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'goku_neck_base_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_leftShoulderBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_leftUpperArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'goku_leftForeArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'goku_rightShoulderBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_rightUpperArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'goku_leftThigh_skin_JNT'
+      has translation animation that will be discarded.\n\t'goku_rightThigh_skin_JNT'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goku_blendShapes
+        weight: 1
+      - path: goku_geo
+        weight: 1
+      - path: goku_geo/goku_belt
+        weight: 1
+      - path: goku_geo/goku_hair
+        weight: 1
+      - path: goku_geo/goku_head
+        weight: 1
+      - path: goku_geo/goku_left_arm
+        weight: 1
+      - path: goku_geo/goku_left_boots
+        weight: 1
+      - path: goku_geo/goku_left_eye
+        weight: 1
+      - path: goku_geo/goku_left_sweatband
+        weight: 1
+      - path: goku_geo/goku_right_arm
+        weight: 1
+      - path: goku_geo/goku_right_boots
+        weight: 1
+      - path: goku_geo/goku_right_eye
+        weight: 1
+      - path: goku_geo/goku_right_sweatband
+        weight: 1
+      - path: goku_geo/goku_shirt
+        weight: 1
+      - path: goku_geo/goku_suit_pants
+        weight: 1
+      - path: goku_geo/goku_suit_shirt
+        weight: 1
+      - path: goku_root_transform_CTRL
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5/goku_leftHandBase_result_JNT
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5/goku_leftHandBase_result_JNT/goku_leftThumbBase_result_JNT
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5/goku_leftHandBase_result_JNT/goku_leftThumbBase_result_JNT/goku_leftThumb_straight_JNT
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5/goku_leftHandBase_result_JNT/goku_leftThumbBase_result_JNT/goku_leftThumb_straight_JNT/goku_leftThumb_orbit_orient_JNT
+        weight: 1
+      - path: goku_root_transform_CTRL/goku_leftHand_GRP/goku_DO_NOT_TOUCH_GRP5/goku_leftHandBase_result_JNT/goku_leftThumbBase_result_JNT/goku_leftThumb_straight_JNT/goku_leftThumb_orbit_orient_JNT/goku_leftThumb_orbit_result_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_leftThigh_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_leftThigh_skin_JNT/goku_leftShin_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_leftThigh_skin_JNT/goku_leftShin_skin_JNT/goku_leftFoot_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_leftThigh_skin_JNT/goku_leftShin_skin_JNT/goku_leftFoot_skin_JNT/goku_leftBall_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_leftThigh_skin_JNT/goku_leftShin_skin_JNT/goku_leftFoot_skin_JNT/goku_leftBall_skin_JNT/goku_leftToe_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_rightThigh_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_rightThigh_skin_JNT/goku_rightShin_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_rightThigh_skin_JNT/goku_rightShin_skin_JNT/goku_rightFoot_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_rightThigh_skin_JNT/goku_rightShin_skin_JNT/goku_rightFoot_skin_JNT/goku_rightBall_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftMiddle1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftMiddle1_skin_JNT/goku_leftMiddle2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftMiddle1_skin_JNT/goku_leftMiddle2_skin_JNT/goku_leftMiddle3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPinky1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPinky1_skin_JNT/goku_leftPinky2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPinky1_skin_JNT/goku_leftPinky2_skin_JNT/goku_leftPinky3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPointer1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPointer1_skin_JNT/goku_leftPointer2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftPointer1_skin_JNT/goku_leftPointer2_skin_JNT/goku_leftPointer3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftRing1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftRing1_skin_JNT/goku_leftRing2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftRing1_skin_JNT/goku_leftRing2_skin_JNT/goku_leftRing3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftThumbBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftThumbBase_skin_JNT/goku_leftThumb1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_leftShoulderBase_skin_JNT/goku_leftUpperArm_seg1_skin_JNT/goku_leftUpperArm_seg3_skin_JNT/goku_leftForeArm_seg1_skin_JNT/goku_leftForeArm_seg3_skin_JNT/goku_leftHandBase_skin_JNT/goku_leftThumbBase_skin_JNT/goku_leftThumb1_skin_JNT/goku_leftThumb2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair01_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair01_1_skin_JNT/goku_hair01_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair01_1_skin_JNT/goku_hair01_2_skin_JNT/goku_hair01_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair01_1_skin_JNT/goku_hair01_2_skin_JNT/goku_hair01_3_skin_JNT/goku_hair01_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair02_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair02_1_skin_JNT/goku_hair02_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair02_1_skin_JNT/goku_hair02_2_skin_JNT/goku_hair02_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair02_1_skin_JNT/goku_hair02_2_skin_JNT/goku_hair02_3_skin_JNT/goku_hair02_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair02_1_skin_JNT/goku_hair02_2_skin_JNT/goku_hair02_3_skin_JNT/goku_hair02_4_skin_JNT/goku_hair02_5_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair03_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair03_1_skin_JNT/goku_hair03_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair03_1_skin_JNT/goku_hair03_2_skin_JNT/goku_hair03_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair04_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair04_1_skin_JNT/goku_hair04_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair04_1_skin_JNT/goku_hair04_2_skin_JNT/goku_hair04_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair04_1_skin_JNT/goku_hair04_2_skin_JNT/goku_hair04_3_skin_JNT/goku_hair04_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair05_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair05_1_skin_JNT/goku_hair05_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair05_1_skin_JNT/goku_hair05_2_skin_JNT/goku_hair05_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair05_1_skin_JNT/goku_hair05_2_skin_JNT/goku_hair05_3_skin_JNT/goku_hair05_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair06_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair06_1_skin_JNT/goku_hair06_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair06_1_skin_JNT/goku_hair06_2_skin_JNT/goku_hair06_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair06_1_skin_JNT/goku_hair06_2_skin_JNT/goku_hair06_3_skin_JNT/goku_hair06_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair07_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair07_1_skin_JNT/goku_hair07_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair07_1_skin_JNT/goku_hair07_2_skin_JNT/goku_hair07_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair07_1_skin_JNT/goku_hair07_2_skin_JNT/goku_hair07_3_skin_JNT/goku_hair07_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair07_1_skin_JNT/goku_hair07_2_skin_JNT/goku_hair07_3_skin_JNT/goku_hair07_4_skin_JNT/goku_hair07_5_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair08_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair08_1_skin_JNT/goku_hair08_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair08_1_skin_JNT/goku_hair08_2_skin_JNT/goku_hair08_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair08_1_skin_JNT/goku_hair08_2_skin_JNT/goku_hair08_3_skin_JNT/goku_hair08_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair09_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair09_1_skin_JNT/goku_hair09_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair09_1_skin_JNT/goku_hair09_2_skin_JNT/goku_hair09_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair10_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair10_1_skin_JNT/goku_hair10_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair10_1_skin_JNT/goku_hair10_2_skin_JNT/goku_hair10_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair11_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair11_1_skin_JNT/goku_hair11_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair11_1_skin_JNT/goku_hair11_2_skin_JNT/goku_hair11_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair11_1_skin_JNT/goku_hair11_2_skin_JNT/goku_hair11_3_skin_JNT/goku_hair11_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair12_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair12_1_skin_JNT/goku_hair12_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair12_1_skin_JNT/goku_hair12_2_skin_JNT/goku_hair12_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair13_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair13_1_skin_JNT/goku_hair13_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair13_1_skin_JNT/goku_hair13_2_skin_JNT/goku_hair13_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair13_1_skin_JNT/goku_hair13_2_skin_JNT/goku_hair13_3_skin_JNT/goku_hair13_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair14_1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair14_1_skin_JNT/goku_hair14_2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair14_1_skin_JNT/goku_hair14_2_skin_JNT/goku_hair14_3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_neck_base_skin_JNT/goku_neck_end_skin_JNT/goku_hair_JNT/goku_hair14_1_skin_JNT/goku_hair14_2_skin_JNT/goku_hair14_3_skin_JNT/goku_hair14_4_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightMiddle1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightMiddle1_skin_JNT/goku_rightMiddle2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightMiddle1_skin_JNT/goku_rightMiddle2_skin_JNT/goku_rightMiddle3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPinky1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPinky1_skin_JNT/goku_rightPinky2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPinky1_skin_JNT/goku_rightPinky2_skin_JNT/goku_rightPinky3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPointer1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPointer1_skin_JNT/goku_rightPointer2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightPointer1_skin_JNT/goku_rightPointer2_skin_JNT/goku_rightPointer3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightRing1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightRing1_skin_JNT/goku_rightRing2_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightRing1_skin_JNT/goku_rightRing2_skin_JNT/goku_rightRing3_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightThumbBase_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightThumbBase_skin_JNT/goku_rightThumb1_skin_JNT
+        weight: 1
+      - path: goku_spine1_skin_JNT/goku_spine3_skin_JNT/goku_spine5_skin_JNT/goku_spine7_skin_JNT/goku_rightShoulderBase_skin_JNT/goku_rightUpperArm_seg1_skin_JNT/goku_rightUpperArm_seg3_skin_JNT/goku_rightForeArm_seg1_skin_JNT/goku_rightForeArm_seg3_skin_JNT/goku_rightHandBase_skin_JNT/goku_rightThumbBase_skin_JNT/goku_rightThumb1_skin_JNT/goku_rightThumb2_skin_JNT
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: goku_spine1_skin_JNT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftThigh_skin_JNT
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightThigh_skin_JNT
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftShin_skin_JNT
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightShin_skin_JNT
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftFoot_skin_JNT
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightFoot_skin_JNT
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_spine3_skin_JNT
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_spine5_skin_JNT
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_neck_base_skin_JNT
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_neck_end_skin_JNT
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftShoulderBase_skin_JNT
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightShoulderBase_skin_JNT
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftUpperArm_seg1_skin_JNT
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightUpperArm_seg1_skin_JNT
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftForeArm_seg1_skin_JNT
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightForeArm_seg1_skin_JNT
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftHandBase_skin_JNT
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightHandBase_skin_JNT
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftBall_skin_JNT
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightBall_skin_JNT
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_hair08_1_skin_JNT
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_hair05_1_skin_JNT
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: -20, z: -10}
+        max: {x: 0, y: 20, z: 15}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_hair06_1_skin_JNT
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: -10, z: -10}
+        max: {x: 0, y: 10, z: 10}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftThumbBase_skin_JNT
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftThumb1_skin_JNT
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftThumb2_skin_JNT
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPointer1_skin_JNT
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPointer2_skin_JNT
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPointer3_skin_JNT
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftMiddle1_skin_JNT
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftMiddle2_skin_JNT
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftMiddle3_skin_JNT
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftRing1_skin_JNT
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftRing2_skin_JNT
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftRing3_skin_JNT
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPinky1_skin_JNT
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPinky2_skin_JNT
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_leftPinky3_skin_JNT
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightThumbBase_skin_JNT
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightThumb1_skin_JNT
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightThumb2_skin_JNT
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPointer1_skin_JNT
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPointer2_skin_JNT
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPointer3_skin_JNT
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightMiddle1_skin_JNT
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightMiddle2_skin_JNT
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightMiddle3_skin_JNT
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightRing1_skin_JNT
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightRing2_skin_JNT
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightRing3_skin_JNT
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPinky1_skin_JNT
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPinky2_skin_JNT
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goku_rightPinky3_skin_JNT
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: goku(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_blendShapes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_geo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_belt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_head
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_left_arm
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_left_boots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_left_eye
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_left_sweatband
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_right_arm
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_right_boots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_right_eye
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_right_sweatband
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_shirt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_suit_pants
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_suit_shirt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_root_transform_CTRL
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftHand_GRP
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_DO_NOT_TOUCH_GRP5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftHandBase_result_JNT
+      position: {x: -.698831618, y: 1.44105601, z: -.0277089272}
+      rotation: {x: .973916233, y: -.00197081827, z: -.226899207, w: -.000116970303}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumbBase_result_JNT
+      position: {x: -.0694459081, y: .0251200274, z: -.0130172735}
+      rotation: {x: .0765294656, y: -.182228863, z: -.381004512, w: .903200686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumb_straight_JNT
+      position: {x: -8.52651264e-16, y: -5.68434176e-16, z: 1.42108544e-16}
+      rotation: {x: .399672866, y: -.00317405444, z: -.00258400966, w: .916648686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumb_orbit_orient_JNT
+      position: {x: 4.26325632e-16, y: -1.42108544e-16, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumb_orbit_result_JNT
+      position: {x: -1.42108544e-16, y: 0, z: 2.84217088e-16}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_spine1_skin_JNT
+      position: {x: 1.05878722e-24, y: .934345126, z: .0246329661}
+      rotation: {x: .489168972, y: -.510601401, z: -.489168912, w: .510601342}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: goku_leftThigh_skin_JNT
+      position: {x: .0692599937, y: .0186771359, z: .126926303}
+      rotation: {x: -.0357430689, y: .725456238, z: .686953902, w: .0230220687}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftShin_skin_JNT
+      position: {x: -.310847223, y: -7.1054272e-17, z: 3.5527136e-17}
+      rotation: {x: .0119432937, y: -.144792259, z: .0100196153, w: .989339292}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftFoot_skin_JNT
+      position: {x: -.471801549, y: -3.5527136e-17, z: -1.7763568e-17}
+      rotation: {x: -.0773174539, y: .582336485, z: -.0283988342, w: .808764398}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftBall_skin_JNT
+      position: {x: -.130759671, y: -3.5527136e-17, z: 1.1546319e-16}
+      rotation: {x: -.0129641518, y: .192185879, z: .040465977, w: .980438173}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftToe_skin_JNT
+      position: {x: -.127944216, y: -2.97788808e-11, z: 3.19488491e-10}
+      rotation: {x: .464037478, y: -.452079445, z: -.531576395, w: .54563719}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightThigh_skin_JNT
+      position: {x: .0692601725, y: .0186771378, z: -.126926005}
+      rotation: {x: .72546047, y: .0357418172, z: -.0230218284, w: .686949492}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightShin_skin_JNT
+      position: {x: .310846865, y: -8.0656622e-07, z: 7.71783562e-08}
+      rotation: {x: .0119432947, y: -.14479132, z: .0100195501, w: .989339411}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightFoot_skin_JNT
+      position: {x: .471801758, y: 6.89977981e-07, z: -1.30423388e-07}
+      rotation: {x: -.0920787901, y: .580731809, z: -.048970297, w: .807387114}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightBall_skin_JNT
+      position: {x: .130759642, y: 1.5501422e-07, z: -3.16394697e-08}
+      rotation: {x: -.0129641844, y: .192185909, z: .0404658765, w: .980438173}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_spine3_skin_JNT
+      position: {x: -.178218305, y: .00128070218, z: -2.96692977e-17}
+      rotation: {x: -4.01290272e-08, y: 4.23205332e-10, z: -.00416275766, w: .999991357}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_spine5_skin_JNT
+      position: {x: -.169135332, y: -.00214613229, z: 4.37280434e-10}
+      rotation: {x: 0, y: 0, z: .0361641049, w: .999345899}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_spine7_skin_JNT
+      position: {x: -.161770016, y: -.00440993905, z: 4.17258367e-10}
+      rotation: {x: -.468178123, y: .529914379, z: .468178123, w: .529914379}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftShoulderBase_skin_JNT
+      position: {x: -.12876676, y: .0431318097, z: -.0153053375}
+      rotation: {x: 7.03867499e-06, y: 3.33330754e-05, z: .146367669, w: .989230275}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftUpperArm_seg1_skin_JNT
+      position: {x: -.114930615, y: -.00422548782, z: -6.58355202e-05}
+      rotation: {x: .986176431, y: -.162836179, z: .0276399702, w: .0132849365}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftUpperArm_seg3_skin_JNT
+      position: {x: -.111118115, y: .000155870526, z: -.000228880119}
+      rotation: {x: 5.04004311e-06, y: .00503829354, z: -.000873259967, w: .999986947}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftForeArm_seg1_skin_JNT
+      position: {x: -.100683719, y: -3.46192355e-05, z: -.00122201047}
+      rotation: {x: .000175176756, y: -.0564958453, z: .00445693638, w: .99839288}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftForeArm_seg3_skin_JNT
+      position: {x: -.1205239, y: 5.33647426e-06, z: 1.18574111e-08}
+      rotation: {x: 8.95134508e-05, y: -1.43771715e-07, z: -4.46756603e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftHandBase_skin_JNT
+      position: {x: -.131269112, y: -.000759851013, z: -7.22464089e-09}
+      rotation: {x: .000444232952, y: -.205452815, z: .00309322658, w: .978662074}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftMiddle1_skin_JNT
+      position: {x: -.128263935, y: .000571420242, z: .0500251651}
+      rotation: {x: -.00117908558, y: .216256112, z: -.00633804407, w: .976315439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftMiddle2_skin_JNT
+      position: {x: -.0437222905, y: -1.07718278e-13, z: -2.43262049e-10}
+      rotation: {x: 3.58282536e-11, y: .0126840528, z: 1.67785913e-12, w: .999919593}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftMiddle3_skin_JNT
+      position: {x: -.036911957, y: -1.58308913e-13, z: -2.05370401e-10}
+      rotation: {x: 3.58055287e-11, y: -.000682288606, z: 2.10773196e-12, w: .999999762}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPinky1_skin_JNT
+      position: {x: -.101599827, y: .00272857351, z: .0980849937}
+      rotation: {x: -.0018814276, y: .268652141, z: -.00852546655, w: .963197708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPinky2_skin_JNT
+      position: {x: -.0280373208, y: -1.50066618e-13, z: -1.55983157e-10}
+      rotation: {x: 4.85089018e-11, y: -.00245104055, z: 2.5410828e-12, w: .99999702}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPinky3_skin_JNT
+      position: {x: -.0245475415, y: -1.19086964e-13, z: -1.36568701e-10}
+      rotation: {x: 4.84909786e-11, y: .00908545312, z: 2.86296095e-12, w: .999958754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPointer1_skin_JNT
+      position: {x: -.141522974, y: 8.89905641e-05, z: .0240687039}
+      rotation: {x: -.00116137927, y: .202730358, z: -.00687276572, w: .979209781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPointer2_skin_JNT
+      position: {x: -.0417625755, y: -1.19939608e-13, z: -2.32355538e-10}
+      rotation: {x: 3.87392132e-11, y: .0084300423, z: 1.75751102e-12, w: .999964476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftPointer3_skin_JNT
+      position: {x: -.0300378967, y: -1.24202867e-13, z: -1.67122205e-10}
+      rotation: {x: .000316845428, y: -.0213434752, z: -.0148400422, w: .999662042}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftRing1_skin_JNT
+      position: {x: -.114788845, y: .000387422682, z: .0743494704}
+      rotation: {x: -.00117459777, y: .234224677, z: -.00629069656, w: .972161472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftRing2_skin_JNT
+      position: {x: -.0397162959, y: -1.46656016e-13, z: -2.20973531e-10}
+      rotation: {x: -2.01990188e-05, y: .00479463954, z: -.00520613743, w: .999974966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftRing3_skin_JNT
+      position: {x: -.0322559886, y: -1.44382282e-13, z: -1.79432302e-10}
+      rotation: {x: 3.70589453e-12, y: .000314156205, z: .00937102269, w: .999956071}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumbBase_skin_JNT
+      position: {x: -.0694467798, y: .025118703, z: -.0130174411}
+      rotation: {x: .966757953, y: .131048426, z: -.152192041, w: -.158249646}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumb1_skin_JNT
+      position: {x: -.0278275181, y: -.00695567019, z: .0280846637}
+      rotation: {x: .897774279, y: .0941883326, z: -.420531631, w: -.0910120532}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_leftThumb2_skin_JNT
+      position: {x: -.0338006094, y: -.0020471625, z: .00488912733}
+      rotation: {x: .072741881, y: .0818168521, z: -.137932971, w: .984372497}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_neck_base_skin_JNT
+      position: {x: 4.0771414e-10, y: .0600269288, z: -.00902974419}
+      rotation: {x: -.58622843, y: .395393789, z: .586228609, w: -.39539364}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_neck_end_skin_JNT
+      position: {x: -.0757395849, y: .00494530285, z: -5.30833333e-09}
+      rotation: {x: .597144067, y: -.378707051, z: -.597144008, w: -.378707111}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair_JNT
+      position: {x: -6.46779128e-08, y: .122582167, z: -.00985202193}
+      rotation: {x: .0198664051, y: -1.40900823e-07, z: 1.37392803e-07, w: .999802649}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair01_1_skin_JNT
+      position: {x: .0175230578, y: .0982622057, z: .04425494}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair01_2_skin_JNT
+      position: {x: .0165805612, y: .0344615579, z: .00845524017}
+      rotation: {x: -.412884176, y: .910783529, z: -8.10512725e-17, w: -3.04875447e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair01_3_skin_JNT
+      position: {x: -.0529881977, y: -.0111091333, z: -.016489489}
+      rotation: {x: -7.52976357e-17, y: 5.63968234e-17, z: -.599480152, w: .800389707}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair01_4_skin_JNT
+      position: {x: .0171438418, y: -.0547083877, z: -.0245071985}
+      rotation: {x: 5.32898206e-17, y: 7.0197604e-17, z: .117877632, w: .993028164}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair02_1_skin_JNT
+      position: {x: .0940896198, y: .0526384003, z: .0275596846}
+      rotation: {x: -.180056021, y: .983656406, z: -7.12568386e-17, w: -4.92063343e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair02_2_skin_JNT
+      position: {x: -.052062612, y: -.000978598837, z: .000688224914}
+      rotation: {x: 0, y: 0, z: .19715406, w: .980372548}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair02_3_skin_JNT
+      position: {x: -.0513770767, y: .00403631013, z: .00459459331}
+      rotation: {x: 0, y: 0, z: .0845096856, w: .996422648}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair02_4_skin_JNT
+      position: {x: -.0552022271, y: -.00124686351, z: .00297779404}
+      rotation: {x: 0, y: 0, z: .169864833, w: .985467374}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair02_5_skin_JNT
+      position: {x: -.0709815696, y: .0009457462, z: .0105188247}
+      rotation: {x: -.120660469, y: .992693841, z: -6.81732879e-17, w: -5.33966427e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair03_1_skin_JNT
+      position: {x: .123731002, y: -.00497545442, z: -.0278781746}
+      rotation: {x: -.147917703, y: .988999665, z: -6.96161093e-17, w: -5.15014164e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair03_2_skin_JNT
+      position: {x: -.0404240079, y: -.00243822602, z: .00810937397}
+      rotation: {x: 0, y: 0, z: .156486318, w: .987680137}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair03_3_skin_JNT
+      position: {x: -.047541827, y: .00314185373, z: .00974175707}
+      rotation: {x: 0, y: 0, z: .106870256, w: .994273007}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair04_1_skin_JNT
+      position: {x: .00737687852, y: .0661924705, z: .112464435}
+      rotation: {x: -.0191452317, y: .706847548, z: -.0191452317, w: .706847548}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair04_2_skin_JNT
+      position: {x: -.040711008, y: .000535449479, z: .00206375495}
+      rotation: {x: 0, y: 0, z: .0187017247, w: .99982512}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair04_3_skin_JNT
+      position: {x: -.0384625904, y: .00222528866, z: .00289317127}
+      rotation: {x: 0, y: 0, z: .16844742, w: .985710621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair04_4_skin_JNT
+      position: {x: -.0367263369, y: .00202918006, z: .00287805661}
+      rotation: {x: 0, y: 0, z: .104628079, w: .994511425}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair05_1_skin_JNT
+      position: {x: .0619444698, y: .0230418723, z: .0813786611}
+      rotation: {x: .282133847, y: .711017489, z: .393261939, w: .510097742}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair05_2_skin_JNT
+      position: {x: -.0379063599, y: .00451515894, z: .00659566466}
+      rotation: {x: .90435636, y: .426778167, z: 2.61326257e-17, w: 5.53758543e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair05_3_skin_JNT
+      position: {x: -.0428433754, y: -.00412112055, z: .00101859123}
+      rotation: {x: 0, y: -0, z: -.201851293, w: .979416192}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair05_4_skin_JNT
+      position: {x: -.0461863764, y: .0029313867, z: .0123058129}
+      rotation: {x: .28923583, y: .645246208, z: -.28923583, w: .645246208}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair06_1_skin_JNT
+      position: {x: .0109258844, y: .0226210263, z: .112215593}
+      rotation: {x: .329127878, y: .625839353, z: .329127878, w: .625839353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair06_2_skin_JNT
+      position: {x: -.0416300856, y: .000328959693, z: .016557565}
+      rotation: {x: 0, y: 0, z: .220020145, w: .975495338}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair06_3_skin_JNT
+      position: {x: -.0393925831, y: .00288666366, z: .0151954293}
+      rotation: {x: .947396636, y: .320061922, z: 1.95981404e-17, w: 5.80113146e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair06_4_skin_JNT
+      position: {x: -.0383425057, y: 8.52651264e-16, z: -.0143523924}
+      rotation: {x: .362951696, y: .606849313, z: -.362951696, w: .606849313}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair07_1_skin_JNT
+      position: {x: -.0538569614, y: .0238692462, z: .101659335}
+      rotation: {x: -.0696770176, y: .703665495, z: -.0696770176, w: .703665495}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair07_2_skin_JNT
+      position: {x: -.0319501683, y: -.00103065069, z: -.00228323624}
+      rotation: {x: 0, y: 0, z: .141713724, w: .989907682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair07_3_skin_JNT
+      position: {x: -.0292772334, y: -.000693063135, z: -.00273683481}
+      rotation: {x: 0, y: 0, z: .199084476, w: .979982316}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair07_4_skin_JNT
+      position: {x: -.0291690566, y: .00151948736, z: -.00382559071}
+      rotation: {x: 0, y: 0, z: .141577527, w: .989927173}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair07_5_skin_JNT
+      position: {x: -.0304461494, y: 1.92259104e-05, z: -.00329310889}
+      rotation: {x: -.26619795, y: -.655086756, z: -.26619795, w: .655086756}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair08_1_skin_JNT
+      position: {x: -.0628266484, y: .00427726191, z: .102473877}
+      rotation: {x: .285269409, y: .647009552, z: .285269409, w: .647009552}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair08_2_skin_JNT
+      position: {x: -.0245433897, y: -.00293082418, z: .0060043023}
+      rotation: {x: 0, y: 0, z: .281512171, w: .959557652}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair08_3_skin_JNT
+      position: {x: -.0314806588, y: -.00205665291, z: .00554885063}
+      rotation: {x: .970209777, y: .242266551, z: 1.48345479e-17, w: 5.94082175e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair08_4_skin_JNT
+      position: {x: -.0372595005, y: -.00156425964, z: -.0130417114}
+      rotation: {x: .413990527, y: .573246777, z: -.413990527, w: .573246777}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair09_1_skin_JNT
+      position: {x: -.114799537, y: .00819911622, z: -.0112977242}
+      rotation: {x: 0, y: -0, z: -.0381815806, w: .999270856}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair09_2_skin_JNT
+      position: {x: -.0383209027, y: .00016388623, z: -.00460748514}
+      rotation: {x: 0, y: 0, z: .00545082241, w: .999985158}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair09_3_skin_JNT
+      position: {x: -.0375766978, y: 1.13227643e-05, z: -.00383459451}
+      rotation: {x: 0, y: -0, z: -.00631078426, w: .999980092}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair10_1_skin_JNT
+      position: {x: -.106823109, y: -.0262295622, z: -.0803263932}
+      rotation: {x: 0, y: -.135251507, z: -0, w: .990811288}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair10_2_skin_JNT
+      position: {x: -.0417652689, y: -.00140946265, z: -.00372424233}
+      rotation: {x: 0, y: -.0449959412, z: -0, w: .998987198}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair10_3_skin_JNT
+      position: {x: -.0418092273, y: -.00246655988, z: .000891539152}
+      rotation: {x: 0, y: .018950237, z: -0, w: .999820411}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair11_1_skin_JNT
+      position: {x: -.0863845497, y: -.0320819095, z: -.111486331}
+      rotation: {x: 0, y: -.528275609, z: -0, w: .849072993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair11_2_skin_JNT
+      position: {x: -.038424015, y: .000537072599, z: .00297610881}
+      rotation: {x: 0, y: .0378825404, z: -0, w: .999282181}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair11_3_skin_JNT
+      position: {x: -.0333653688, y: .00285739172, z: -.00142704102}
+      rotation: {x: 0, y: .00494177965, z: -0, w: .999987781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair11_4_skin_JNT
+      position: {x: -.0377097055, y: .00454239408, z: -.00122134993}
+      rotation: {x: 0, y: -.0212787148, z: -0, w: .999773622}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair12_1_skin_JNT
+      position: {x: -.0579244159, y: -.0439460091, z: -.126107171}
+      rotation: {x: 0, y: -.561719298, z: -0, w: .827327907}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair12_2_skin_JNT
+      position: {x: -.0371790864, y: .00352401985, z: .0019753091}
+      rotation: {x: 0, y: .00282808556, z: -0, w: .999996006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair12_3_skin_JNT
+      position: {x: -.0325419046, y: .00339217484, z: -.000325081608}
+      rotation: {x: 0, y: .000273544341, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair13_1_skin_JNT
+      position: {x: .0588505454, y: -.0482030921, z: -.125628695}
+      rotation: {x: 2.78526072e-17, y: .896966338, z: -2.78526072e-17, w: -.442098796}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair13_2_skin_JNT
+      position: {x: -.0381827094, y: .000666597043, z: -.00768797565}
+      rotation: {x: 0, y: -.0616778769, z: -0, w: .998096108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair13_3_skin_JNT
+      position: {x: -.0378821753, y: .00252041221, z: -.000803278293}
+      rotation: {x: 0, y: .00597142614, z: -0, w: .999982178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair13_4_skin_JNT
+      position: {x: -.0480214171, y: .00113249267, z: .000412683527}
+      rotation: {x: 8.031487e-17, y: .920205295, z: -8.031487e-17, w: .39143604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair14_1_skin_JNT
+      position: {x: .09271501, y: -.036145892, z: -.0973775908}
+      rotation: {x: 2.81034249e-17, y: .898315251, z: -2.81034249e-17, w: -.439351499}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair14_2_skin_JNT
+      position: {x: -.0394330025, y: .00140742853, z: -.0084622493}
+      rotation: {x: 0, y: -.0903259367, z: -0, w: .995912254}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair14_3_skin_JNT
+      position: {x: -.0456742384, y: .00258263294, z: -.000449193933}
+      rotation: {x: 0, y: -.00412135199, z: -0, w: .999991536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_hair14_4_skin_JNT
+      position: {x: -.0635270774, y: .0061118817, z: -2.68673954e-16}
+      rotation: {x: 7.88886584e-17, y: .935788989, z: -7.88886584e-17, w: .35256058}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightShoulderBase_skin_JNT
+      position: {x: .128766999, y: .0434236191, z: -.0145393079}
+      rotation: {x: .987942517, y: -.154596612, z: -.00122214016, w: -.00824617036}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightUpperArm_seg1_skin_JNT
+      position: {x: .114284731, y: .00238019647, z: .000201738469}
+      rotation: {x: .160218522, y: .986529589, z: -.0213852022, w: .0251413621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightUpperArm_seg3_skin_JNT
+      position: {x: -.111119211, y: 7.85973977e-12, z: -2.91441385e-11}
+      rotation: {x: 1.8216977e-05, y: -3.82889109e-10, z: -4.65622983e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightForeArm_seg1_skin_JNT
+      position: {x: -.100687228, y: .00022492226, z: 4.97372966e-05}
+      rotation: {x: -.00038038363, y: .0503498241, z: .0049223383, w: .998719454}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightForeArm_seg3_skin_JNT
+      position: {x: -.120524146, y: -1.63845465e-11, z: 2.33764115e-12}
+      rotation: {x: -.000824141956, y: -1.79629413e-14, z: 2.10930817e-12, w: .999999702}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightHandBase_skin_JNT
+      position: {x: -.131455213, y: .000219226946, z: .000137469528}
+      rotation: {x: .205541536, y: -8.55280014e-05, z: .978639066, w: -.0042782044}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightMiddle1_skin_JNT
+      position: {x: .128264546, y: -.000574262929, z: -.0500255637}
+      rotation: {x: -.00117908558, y: .216256112, z: -.00633804407, w: .976315439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightMiddle2_skin_JNT
+      position: {x: .0437214077, y: 2.77196932e-07, z: 2.41896316e-08}
+      rotation: {x: 6.96778484e-18, y: .0126840519, z: -4.92901474e-15, w: .999919593}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightMiddle3_skin_JNT
+      position: {x: .0369126014, y: 2.45111619e-06, z: 4.73372204e-08}
+      rotation: {x: 6.31348713e-17, y: -.000682290003, z: -4.93089049e-15, w: .999999762}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPinky1_skin_JNT
+      position: {x: .101600438, y: -.0027218028, z: -.0980853066}
+      rotation: {x: -.0018814276, y: .268652141, z: -.00852546655, w: .963197708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPinky2_skin_JNT
+      position: {x: .0280375555, y: -9.38456378e-06, z: -1.23479023e-08}
+      rotation: {x: -2.92968579e-17, y: -.00245104101, z: -3.55777385e-15, w: .99999702}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPinky3_skin_JNT
+      position: {x: .0245469138, y: 4.52716085e-06, z: -4.76467399e-08}
+      rotation: {x: -4.79356955e-18, y: .00908545312, z: -3.55967841e-15, w: .999958754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPointer1_skin_JNT
+      position: {x: .141523525, y: -8.53773381e-05, z: -.0240689814}
+      rotation: {x: -.00116137927, y: .202730358, z: -.00687276572, w: .979209781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPointer2_skin_JNT
+      position: {x: .0417626612, y: 7.4626405e-07, z: -3.99642142e-09}
+      rotation: {x: -2.71492704e-17, y: .00843004044, z: 3.83760516e-15, w: .999964476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightPointer3_skin_JNT
+      position: {x: .0300375279, y: -5.4494285e-06, z: -2.349908e-08}
+      rotation: {x: .000316845195, y: -.0213434808, z: -.0148400422, w: .999662042}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightRing1_skin_JNT
+      position: {x: .114788972, y: -.00038280274, z: -.0743495971}
+      rotation: {x: -.00117459777, y: .234224677, z: -.00629069656, w: .972161472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightRing2_skin_JNT
+      position: {x: .0397159681, y: 1.32123614e-06, z: 2.42913707e-08}
+      rotation: {x: -2.01990915e-05, y: .00479463814, z: -.00520613743, w: .999974966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightRing3_skin_JNT
+      position: {x: .0322564989, y: -7.62578566e-06, z: -7.47881312e-09}
+      rotation: {x: 1.29044473e-08, y: .00031415539, z: .00937102269, w: .999956071}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightThumbBase_skin_JNT
+      position: {x: .0694460273, y: -.0251206253, z: .0130172083}
+      rotation: {x: .00908271037, y: -.202114955, z: -.0641907901, w: .977213681}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightThumb1_skin_JNT
+      position: {x: .0401419103, y: -.000291810284, z: .000150361127}
+      rotation: {x: .260951579, y: -.0328159966, z: -.0457401723, w: .963709116}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goku_rightThumb2_skin_JNT
+      position: {x: .0337965637, y: .00205025845, z: -.00489214389}
+      rotation: {x: .072741881, y: .0818168521, z: -.137932971, w: .984372497}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: goku_spine1_skin_JNT
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d5ef43a6307e977438444a466915017d,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

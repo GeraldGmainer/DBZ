@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: 725d6adb15bb64c4a898d821010c24c5
+timeCreated: 1451067737
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: trunks_belt
+    100004: trunks_blendShapes
+    100006: trunks_body
+    100008: trunks_geo
+    100010: trunks_grip_JNT
+    100012: trunks_hair
+    100014: trunks_leftBall_skin_JNT
+    100016: trunks_leftBoots
+    100018: trunks_leftEye
+    100020: trunks_leftFoot_skin_JNT
+    100022: trunks_leftForeArm_seg1_skin_JNT
+    100024: trunks_leftForeArm_seg3_skin_JNT
+    100026: trunks_leftHandBase_skin_JNT
+    100028: trunks_leftMiddle1_skin_JNT
+    100030: trunks_leftMiddle2_skin_JNT
+    100032: trunks_leftMiddle3_skin_JNT
+    100034: trunks_leftPinky1_skin_JNT
+    100036: trunks_leftPinky2_skin_JNT
+    100038: trunks_leftPinky3_skin_JNT
+    100040: trunks_leftPointer1_skin_JNT
+    100042: trunks_leftPointer2_skin_JNT
+    100044: trunks_leftPointer3_skin_JNT
+    100046: trunks_leftRing1_skin_JNT
+    100048: trunks_leftRing2_skin_JNT
+    100050: trunks_leftRing3_skin_JNT
+    100052: trunks_leftShin_skin_JNT
+    100054: trunks_leftShoulderBase_skin_JNT
+    100056: trunks_leftThigh_skin_JNT
+    100058: trunks_leftThumb1_skin_JNT
+    100060: trunks_leftThumb2_skin_JNT
+    100062: trunks_leftThumbBase_skin_JNT
+    100064: trunks_leftToe_skin_JNT
+    100066: trunks_leftUpperArm_seg1_skin_JNT
+    100068: trunks_leftUpperArm_seg3_skin_JNT
+    100070: trunks_neck_base_skin_JNT
+    100072: trunks_neck_end_skin_JNT
+    100074: trunks_pants
+    100076: trunks_rightBall_skin_JNT
+    100078: trunks_rightBoots
+    100080: trunks_rightEye
+    100082: trunks_rightFoot_skin_JNT
+    100084: trunks_rightForeArm_seg1_skin_JNT
+    100086: trunks_rightForeArm_seg3_skin_JNT
+    100088: trunks_rightHandBase_skin_JNT
+    100090: trunks_rightMiddle1_skin_JNT
+    100092: trunks_rightMiddle2_skin_JNT
+    100094: trunks_rightMiddle3_skin_JNT
+    100096: trunks_rightPinky1_skin_JNT
+    100098: trunks_rightPinky2_skin_JNT
+    100100: trunks_rightPinky3_skin_JNT
+    100102: trunks_rightPointer1_skin_JNT
+    100104: trunks_rightPointer2_skin_JNT
+    100106: trunks_rightPointer3_skin_JNT
+    100108: trunks_rightRing1_skin_JNT
+    100110: trunks_rightRing2_skin_JNT
+    100112: trunks_rightRing3_skin_JNT
+    100114: trunks_rightShin_skin_JNT
+    100116: trunks_rightShoulderBase_skin_JNT
+    100118: trunks_rightThigh_skin_JNT
+    100120: trunks_rightThumb1_skin_JNT
+    100122: trunks_rightThumb2_skin_JNT
+    100124: trunks_rightThumbBase_skin_JNT
+    100126: trunks_rightToe_skin_JNT
+    100128: trunks_rightUpperArm_seg1_skin_JNT
+    100130: trunks_rightUpperArm_seg3_skin_JNT
+    100132: trunks_sheath_JNT
+    100134: trunks_shirt
+    100136: trunks_spine1_skin_JNT
+    100138: trunks_spine3_skin_JNT
+    100140: trunks_spine5_skin_JNT
+    100142: trunks_spine7_skin_JNT
+    400000: //RootNode
+    400002: trunks_belt
+    400004: trunks_blendShapes
+    400006: trunks_body
+    400008: trunks_geo
+    400010: trunks_grip_JNT
+    400012: trunks_hair
+    400014: trunks_leftBall_skin_JNT
+    400016: trunks_leftBoots
+    400018: trunks_leftEye
+    400020: trunks_leftFoot_skin_JNT
+    400022: trunks_leftForeArm_seg1_skin_JNT
+    400024: trunks_leftForeArm_seg3_skin_JNT
+    400026: trunks_leftHandBase_skin_JNT
+    400028: trunks_leftMiddle1_skin_JNT
+    400030: trunks_leftMiddle2_skin_JNT
+    400032: trunks_leftMiddle3_skin_JNT
+    400034: trunks_leftPinky1_skin_JNT
+    400036: trunks_leftPinky2_skin_JNT
+    400038: trunks_leftPinky3_skin_JNT
+    400040: trunks_leftPointer1_skin_JNT
+    400042: trunks_leftPointer2_skin_JNT
+    400044: trunks_leftPointer3_skin_JNT
+    400046: trunks_leftRing1_skin_JNT
+    400048: trunks_leftRing2_skin_JNT
+    400050: trunks_leftRing3_skin_JNT
+    400052: trunks_leftShin_skin_JNT
+    400054: trunks_leftShoulderBase_skin_JNT
+    400056: trunks_leftThigh_skin_JNT
+    400058: trunks_leftThumb1_skin_JNT
+    400060: trunks_leftThumb2_skin_JNT
+    400062: trunks_leftThumbBase_skin_JNT
+    400064: trunks_leftToe_skin_JNT
+    400066: trunks_leftUpperArm_seg1_skin_JNT
+    400068: trunks_leftUpperArm_seg3_skin_JNT
+    400070: trunks_neck_base_skin_JNT
+    400072: trunks_neck_end_skin_JNT
+    400074: trunks_pants
+    400076: trunks_rightBall_skin_JNT
+    400078: trunks_rightBoots
+    400080: trunks_rightEye
+    400082: trunks_rightFoot_skin_JNT
+    400084: trunks_rightForeArm_seg1_skin_JNT
+    400086: trunks_rightForeArm_seg3_skin_JNT
+    400088: trunks_rightHandBase_skin_JNT
+    400090: trunks_rightMiddle1_skin_JNT
+    400092: trunks_rightMiddle2_skin_JNT
+    400094: trunks_rightMiddle3_skin_JNT
+    400096: trunks_rightPinky1_skin_JNT
+    400098: trunks_rightPinky2_skin_JNT
+    400100: trunks_rightPinky3_skin_JNT
+    400102: trunks_rightPointer1_skin_JNT
+    400104: trunks_rightPointer2_skin_JNT
+    400106: trunks_rightPointer3_skin_JNT
+    400108: trunks_rightRing1_skin_JNT
+    400110: trunks_rightRing2_skin_JNT
+    400112: trunks_rightRing3_skin_JNT
+    400114: trunks_rightShin_skin_JNT
+    400116: trunks_rightShoulderBase_skin_JNT
+    400118: trunks_rightThigh_skin_JNT
+    400120: trunks_rightThumb1_skin_JNT
+    400122: trunks_rightThumb2_skin_JNT
+    400124: trunks_rightThumbBase_skin_JNT
+    400126: trunks_rightToe_skin_JNT
+    400128: trunks_rightUpperArm_seg1_skin_JNT
+    400130: trunks_rightUpperArm_seg3_skin_JNT
+    400132: trunks_sheath_JNT
+    400134: trunks_shirt
+    400136: trunks_spine1_skin_JNT
+    400138: trunks_spine3_skin_JNT
+    400140: trunks_spine5_skin_JNT
+    400142: trunks_spine7_skin_JNT
+    4300000: trunks_belt
+    4300002: trunks_shirt
+    4300004: trunks_hair
+    4300006: trunks_leftEye
+    4300008: trunks_leftBoots
+    4300010: trunks_pants
+    4300012: trunks_rightBoots
+    4300014: trunks_rightEye
+    4300016: trunks_body
+    7400000: sword3
+    7400002: sword3End
+    9500000: //RootNode
+    13700000: trunks_belt
+    13700002: trunks_body
+    13700004: trunks_hair
+    13700006: trunks_leftBoots
+    13700008: trunks_leftEye
+    13700010: trunks_pants
+    13700012: trunks_rightBoots
+    13700014: trunks_rightEye
+    13700016: trunks_shirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nDefault bone length found in this file is different
+      form the one found in the source avatar:\n\t'trunks_leftThigh_skin_JNT' : position
+      error = 7.286864 mm\n\t'trunks_rightThigh_skin_JNT' : position error = 5.922075
+      mm\n\nClip 'Take 001' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'trunks_spine3_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_spine5_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_spine7_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_spine7_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'trunks_neck_base_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_neck_end_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftShoulderBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftUpperArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'trunks_leftForeArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'trunks_leftHandBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftPinky1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftRing1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftMiddle1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftPointer1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightShoulderBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightUpperArm_seg1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightUpperArm_seg3_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightUpperArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'trunks_rightForeArm_seg1_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightForeArm_seg3_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightForeArm_seg3_skin_JNT'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'trunks_rightHandBase_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_leftThigh_skin_JNT'
+      has translation animation that will be discarded.\n\t'trunks_rightThigh_skin_JNT'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sword3
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .12658228
+        functionName: moveForwardMelee
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .227323055
+        functionName: enableSwordTrail
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .603375554
+        functionName: disableSwordTrail
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .168776378
+        functionName: enableSwordHitBox
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: .649789035
+        functionName: disableSwordHitBox
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trunks_blendShapes
+        weight: 0
+      - path: trunks_geo
+        weight: 0
+      - path: trunks_geo/trunks_belt
+        weight: 0
+      - path: trunks_geo/trunks_body
+        weight: 0
+      - path: trunks_geo/trunks_hair
+        weight: 0
+      - path: trunks_geo/trunks_leftBoots
+        weight: 0
+      - path: trunks_geo/trunks_leftEye
+        weight: 0
+      - path: trunks_geo/trunks_pants
+        weight: 0
+      - path: trunks_geo/trunks_rightBoots
+        weight: 0
+      - path: trunks_geo/trunks_rightEye
+        weight: 0
+      - path: trunks_geo/trunks_shirt
+        weight: 0
+      - path: trunks_spine1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT/trunks_leftBall_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT/trunks_leftBall_skin_JNT/trunks_leftToe_skin_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT/trunks_rightBall_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT/trunks_rightBall_skin_JNT/trunks_rightToe_skin_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT/trunks_leftMiddle2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT/trunks_leftMiddle2_skin_JNT/trunks_leftMiddle3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT/trunks_leftPinky2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT/trunks_leftPinky2_skin_JNT/trunks_leftPinky3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT/trunks_leftPointer2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT/trunks_leftPointer2_skin_JNT/trunks_leftPointer3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT/trunks_leftRing2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT/trunks_leftRing2_skin_JNT/trunks_leftRing3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT/trunks_leftThumb1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT/trunks_leftThumb1_skin_JNT/trunks_leftThumb2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_neck_base_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_neck_base_skin_JNT/trunks_neck_end_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_grip_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT/trunks_rightMiddle2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT/trunks_rightMiddle2_skin_JNT/trunks_rightMiddle3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT/trunks_rightPinky2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT/trunks_rightPinky2_skin_JNT/trunks_rightPinky3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT/trunks_rightPointer2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT/trunks_rightPointer2_skin_JNT/trunks_rightPointer3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT/trunks_rightRing2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT/trunks_rightRing2_skin_JNT/trunks_rightRing3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT/trunks_rightThumb1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT/trunks_rightThumb1_skin_JNT/trunks_rightThumb2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_sheath_JNT
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: sword3End
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: trunks_blendShapes
+        weight: 0
+      - path: trunks_geo
+        weight: 0
+      - path: trunks_geo/trunks_belt
+        weight: 0
+      - path: trunks_geo/trunks_body
+        weight: 0
+      - path: trunks_geo/trunks_hair
+        weight: 0
+      - path: trunks_geo/trunks_leftBoots
+        weight: 0
+      - path: trunks_geo/trunks_leftEye
+        weight: 0
+      - path: trunks_geo/trunks_pants
+        weight: 0
+      - path: trunks_geo/trunks_rightBoots
+        weight: 0
+      - path: trunks_geo/trunks_rightEye
+        weight: 0
+      - path: trunks_geo/trunks_shirt
+        weight: 0
+      - path: trunks_spine1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT/trunks_leftBall_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_leftThigh_skin_JNT/trunks_leftShin_skin_JNT/trunks_leftFoot_skin_JNT/trunks_leftBall_skin_JNT/trunks_leftToe_skin_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT/trunks_rightBall_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_rightThigh_skin_JNT/trunks_rightShin_skin_JNT/trunks_rightFoot_skin_JNT/trunks_rightBall_skin_JNT/trunks_rightToe_skin_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT/trunks_leftMiddle2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftMiddle1_skin_JNT/trunks_leftMiddle2_skin_JNT/trunks_leftMiddle3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT/trunks_leftPinky2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPinky1_skin_JNT/trunks_leftPinky2_skin_JNT/trunks_leftPinky3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT/trunks_leftPointer2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftPointer1_skin_JNT/trunks_leftPointer2_skin_JNT/trunks_leftPointer3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT/trunks_leftRing2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftRing1_skin_JNT/trunks_leftRing2_skin_JNT/trunks_leftRing3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT/trunks_leftThumb1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_leftShoulderBase_skin_JNT/trunks_leftUpperArm_seg1_skin_JNT/trunks_leftUpperArm_seg3_skin_JNT/trunks_leftForeArm_seg1_skin_JNT/trunks_leftForeArm_seg3_skin_JNT/trunks_leftHandBase_skin_JNT/trunks_leftThumbBase_skin_JNT/trunks_leftThumb1_skin_JNT/trunks_leftThumb2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_neck_base_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_neck_base_skin_JNT/trunks_neck_end_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_grip_JNT
+        weight: 0
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT/trunks_rightMiddle2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightMiddle1_skin_JNT/trunks_rightMiddle2_skin_JNT/trunks_rightMiddle3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT/trunks_rightPinky2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPinky1_skin_JNT/trunks_rightPinky2_skin_JNT/trunks_rightPinky3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT/trunks_rightPointer2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightPointer1_skin_JNT/trunks_rightPointer2_skin_JNT/trunks_rightPointer3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT/trunks_rightRing2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightRing1_skin_JNT/trunks_rightRing2_skin_JNT/trunks_rightRing3_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT/trunks_rightThumb1_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_rightShoulderBase_skin_JNT/trunks_rightUpperArm_seg1_skin_JNT/trunks_rightUpperArm_seg3_skin_JNT/trunks_rightForeArm_seg1_skin_JNT/trunks_rightForeArm_seg3_skin_JNT/trunks_rightHandBase_skin_JNT/trunks_rightThumbBase_skin_JNT/trunks_rightThumb1_skin_JNT/trunks_rightThumb2_skin_JNT
+        weight: 1
+      - path: trunks_spine1_skin_JNT/trunks_spine3_skin_JNT/trunks_spine5_skin_JNT/trunks_spine7_skin_JNT/trunks_sheath_JNT
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: trunks_spine1_skin_JNT
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftThigh_skin_JNT
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightThigh_skin_JNT
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60, y: -60, z: -90}
+        max: {x: 60, y: 60, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftShin_skin_JNT
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightShin_skin_JNT
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftFoot_skin_JNT
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightFoot_skin_JNT
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30, z: -50}
+        max: {x: 0, y: 30, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_spine3_skin_JNT
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_spine5_skin_JNT
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_neck_base_skin_JNT
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_neck_end_skin_JNT
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftShoulderBase_skin_JNT
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightShoulderBase_skin_JNT
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15, z: -15}
+        max: {x: 0, y: 15, z: 30}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftUpperArm_seg1_skin_JNT
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightUpperArm_seg1_skin_JNT
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftForeArm_seg1_skin_JNT
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightForeArm_seg1_skin_JNT
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftHandBase_skin_JNT
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightHandBase_skin_JNT
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftBall_skin_JNT
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightBall_skin_JNT
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftThumbBase_skin_JNT
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftThumb1_skin_JNT
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftThumb2_skin_JNT
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPointer1_skin_JNT
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPointer2_skin_JNT
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPointer3_skin_JNT
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftMiddle1_skin_JNT
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftMiddle2_skin_JNT
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftMiddle3_skin_JNT
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftRing1_skin_JNT
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftRing2_skin_JNT
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftRing3_skin_JNT
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPinky1_skin_JNT
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPinky2_skin_JNT
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_leftPinky3_skin_JNT
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightThumbBase_skin_JNT
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightThumb1_skin_JNT
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightThumb2_skin_JNT
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPointer1_skin_JNT
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPointer2_skin_JNT
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPointer3_skin_JNT
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightMiddle1_skin_JNT
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightMiddle2_skin_JNT
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightMiddle3_skin_JNT
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightRing1_skin_JNT
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5, z: -50}
+        max: {x: 0, y: 7.5, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightRing2_skin_JNT
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightRing3_skin_JNT
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPinky1_skin_JNT
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPinky2_skin_JNT
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: trunks_rightPinky3_skin_JNT
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: trunks(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_blendShapes
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_geo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_belt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_hair
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftBoots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftEye
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_pants
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightBoots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightEye
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_shirt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_spine1_skin_JNT
+      position: {x: -7.97460363e-33, y: .928357661, z: -.00610164041}
+      rotation: {x: .499279827, y: -.50071913, z: -.499279827, w: .50071913}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: trunks_leftThigh_skin_JNT
+      position: {x: .0412314497, y: .0187838264, z: .110510401}
+      rotation: {x: -.0460461676, y: .795040429, z: .603961587, w: .0319515057}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftShin_skin_JNT
+      position: {x: -.324680209, y: 7.1054272e-17, z: 5.10702568e-17}
+      rotation: {x: .0119040636, y: -.105243146, z: .0292699747, w: .993944407}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftFoot_skin_JNT
+      position: {x: -.479253501, y: -1.06581408e-16, z: -3.5527136e-17}
+      rotation: {x: -.148708776, y: .548628032, z: -.0392483398, w: .821798444}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftBall_skin_JNT
+      position: {x: -.127312019, y: -.00131224422, z: -3.90798503e-16}
+      rotation: {x: -.00240801484, y: .22969833, z: .0102024823, w: .973205447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftToe_skin_JNT
+      position: {x: -.11913918, y: -.0011753022, z: -3.5527136e-17}
+      rotation: {x: .467788637, y: -.467788637, z: -.530258238, w: .530258238}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightThigh_skin_JNT
+      position: {x: .0412319079, y: .0187838282, z: -.110509992}
+      rotation: {x: .795041919, y: .0460458621, z: -.0319513567, w: .60395968}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightShin_skin_JNT
+      position: {x: .324679494, y: -4.20193032e-07, z: -6.09346031e-08}
+      rotation: {x: .0119040636, y: -.105243146, z: .0292699747, w: .993944407}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightFoot_skin_JNT
+      position: {x: .479253799, y: -7.93478634e-08, z: 1.63417564e-08}
+      rotation: {x: -.148710832, y: .548627913, z: -.0392494388, w: .821798027}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightBall_skin_JNT
+      position: {x: .127312034, y: .00131231605, z: -2.95698346e-08}
+      rotation: {x: -.00240801554, y: .229698375, z: .0102024833, w: .973205447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightToe_skin_JNT
+      position: {x: .119139567, y: .00117499998, z: -3.80909242e-08}
+      rotation: {x: .467788637, y: -.467788637, z: -.530258238, w: .530258238}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_spine3_skin_JNT
+      position: {x: -.162221968, y: -.000243773422, z: -3.47586323e-17}
+      rotation: {x: 0, y: 0, z: .00315509527, w: .999995053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_spine5_skin_JNT
+      position: {x: -.161108524, y: -.000273863436, z: -5.29183437e-17}
+      rotation: {x: 0, y: 0, z: .00360183534, w: .999993503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_spine7_skin_JNT
+      position: {x: -.141573817, y: -.000275619124, z: -4.66242238e-17}
+      rotation: {x: -.497047067, y: .502935588, z: .497047067, w: .502935588}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftShoulderBase_skin_JNT
+      position: {x: -.105325572, y: .0531016402, z: .00784134027}
+      rotation: {x: .00224932283, y: -.000515718304, z: .223477855, w: .974706292}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftUpperArm_seg1_skin_JNT
+      position: {x: -.10070768, y: 5.68434176e-16, z: -1.6042722e-16}
+      rotation: {x: .97683692, y: -.212612778, z: .0236369669, w: .00517491484}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftUpperArm_seg3_skin_JNT
+      position: {x: -.0897882134, y: -.000112987669, z: -.000251349178}
+      rotation: {x: -4.77418689e-05, y: .00259416038, z: -.00118929241, w: .999995947}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftForeArm_seg1_skin_JNT
+      position: {x: -.0960395113, y: -.000349247741, z: -.000767165853}
+      rotation: {x: .00028626807, y: -.0433484465, z: .00908055715, w: .999018729}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftForeArm_seg3_skin_JNT
+      position: {x: -.110583797, y: .000157137038, z: -.000863504887}
+      rotation: {x: -.000199144139, y: -.00489737326, z: -.000881517946, w: .999987602}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftHandBase_skin_JNT
+      position: {x: -.10875421, y: .000214146727, z: -.00186627638}
+      rotation: {x: .00131649361, y: -.205809414, z: .00668018823, w: .978568435}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftMiddle1_skin_JNT
+      position: {x: -.110691771, y: .000493135653, z: .0431717187}
+      rotation: {x: -.00117908558, y: .216256112, z: -.00633804407, w: .976315439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftMiddle2_skin_JNT
+      position: {x: -.0377323367, y: 8.52651264e-16, z: -2.39808156e-16}
+      rotation: {x: 0, y: .0126840519, z: -0, w: .999919593}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftMiddle3_skin_JNT
+      position: {x: -.0318550169, y: 5.68434176e-16, z: 4.88498128e-17}
+      rotation: {x: 0, y: -.000682290003, z: -0, w: .999999762}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPinky1_skin_JNT
+      position: {x: -.0876806453, y: .00235475902, z: .08464735}
+      rotation: {x: -.0018814276, y: .268652141, z: -.00852546655, w: .963197708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPinky2_skin_JNT
+      position: {x: -.0241962075, y: 5.68434176e-16, z: -5.3290704e-17}
+      rotation: {x: 0, y: -.00245104101, z: -0, w: .99999702}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPinky3_skin_JNT
+      position: {x: -.0211845282, y: 8.52651264e-16, z: -5.3290702e-16}
+      rotation: {x: 0, y: .00908545312, z: -0, w: .999958754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPointer1_skin_JNT
+      position: {x: -.12213432, y: 7.67988531e-05, z: .0207712911}
+      rotation: {x: -.00116137927, y: .202730358, z: -.00687276572, w: .979209781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPointer2_skin_JNT
+      position: {x: -.0360411033, y: -1.13686835e-15, z: -5.24857931e-16}
+      rotation: {x: 0, y: .00843004044, z: -0, w: .999964476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftPointer3_skin_JNT
+      position: {x: -.0259227064, y: 2.84217088e-16, z: 4.44089183e-17}
+      rotation: {x: .000316845195, y: -.0213434808, z: -.0148400422, w: .999662042}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftRing1_skin_JNT
+      position: {x: -.0990627781, y: .000334345765, z: .0641635954}
+      rotation: {x: -.00117459777, y: .234224677, z: -.00629069656, w: .972161472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftRing2_skin_JNT
+      position: {x: -.0342751667, y: 1.13686835e-15, z: -5.55111512e-17}
+      rotation: {x: -2.01990915e-05, y: .00479463814, z: -.00520613743, w: .999974966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftRing3_skin_JNT
+      position: {x: -.0278369188, y: -1.13686835e-15, z: -2.27595718e-17}
+      rotation: {x: 9.61944622e-14, y: .000314155244, z: .00937102269, w: .999956071}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftThumbBase_skin_JNT
+      position: {x: -.0599318147, y: .0216785837, z: -.0112339081}
+      rotation: {x: .0765294656, y: -.182228863, z: -.381004512, w: .903200686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftThumb1_skin_JNT
+      position: {x: -.0346423723, y: .00025201164, z: -.00013003331}
+      rotation: {x: .25095284, y: .166154474, z: -.0123513397, w: .953552783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_leftThumb2_skin_JNT
+      position: {x: -.0291699264, y: -.00176670111, z: .00421931688}
+      rotation: {x: .072741881, y: .0818168521, z: -.137932971, w: .984372497}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_neck_base_skin_JNT
+      position: {x: -3.69194795e-17, y: .0843562856, z: -.00655577518}
+      rotation: {x: .543164611, y: -.452741593, z: -.543162107, w: .452738553}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_neck_end_skin_JNT
+      position: {x: -.0811711475, y: .019021349, z: -1.05371697e-07}
+      rotation: {x: .550604701, y: -.443660945, z: -.550601661, w: -.443663418}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightShoulderBase_skin_JNT
+      position: {x: .105325572, y: .0531016402, z: .00784134027}
+      rotation: {x: .00224932283, y: -.000515718304, z: .223477855, w: .974706292}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightUpperArm_seg1_skin_JNT
+      position: {x: .0624803677, y: -.078982532, z: -7.88258324e-17}
+      rotation: {x: .022271961, y: -.00489064213, z: .972076833, w: .233552471}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightUpperArm_seg3_skin_JNT
+      position: {x: -.08978834, y: 3.726967e-11, z: -2.47164567e-10}
+      rotation: {x: -.000229162077, y: -1.34870637e-09, z: -2.05338885e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightForeArm_seg1_skin_JNT
+      position: {x: -.0960431546, y: 6.93597679e-11, z: -2.6270125e-10}
+      rotation: {x: -.000396604359, y: .0432618633, z: .00651031313, w: .999042511}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightForeArm_seg3_skin_JNT
+      position: {x: -.11058794, y: -4.13140189e-09, z: 3.25429284e-08}
+      rotation: {x: .000130135726, y: -1.51637096e-07, z: -1.93207388e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightHandBase_skin_JNT
+      position: {x: -.10875126, y: .000253514881, z: .00208240724}
+      rotation: {x: -.00448867632, y: .968997359, z: .00142335298, w: .247026235}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_grip_JNT
+      position: {x: .092283085, y: .0352194309, z: -.0435909219}
+      rotation: {x: -.687831879, y: .163973719, z: .162878126, w: .688092113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightMiddle1_skin_JNT
+      position: {x: .101663113, y: .000154958587, z: -.0614922605}
+      rotation: {x: -.00117908558, y: .216256112, z: -.00633804407, w: .976315439}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightMiddle2_skin_JNT
+      position: {x: .0376860462, y: .000863409718, z: -.00165704056}
+      rotation: {x: -1.74976705e-16, y: .0126840519, z: -4.71671355e-15, w: .999919593}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightMiddle3_skin_JNT
+      position: {x: .0318459347, y: .000729093677, z: .000216648317}
+      rotation: {x: -1.00424226e-17, y: -.000682290003, z: -4.72191688e-15, w: .999999762}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPinky1_skin_JNT
+      position: {x: .120545357, y: .0020231572, z: -.0179816205}
+      rotation: {x: -.0018814276, y: .268652141, z: -.00852546655, w: .963197708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPinky2_skin_JNT
+      position: {x: .0238261614, y: .000772457977, z: .00414412329}
+      rotation: {x: 4.02455873e-16, y: -.00245104101, z: -3.29250516e-15, w: .99999702}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPinky3_skin_JNT
+      position: {x: .0208951104, y: .000676588854, z: .00342356297}
+      rotation: {x: 4.97648797e-16, y: .00908545312, z: -3.28556605e-15, w: .999958754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPointer1_skin_JNT
+      position: {x: .0908663273, y: -.000262406626, z: -.084210977}
+      rotation: {x: -.00116137927, y: .202730358, z: -.00687276572, w: .979209781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPointer2_skin_JNT
+      position: {x: .0358524956, y: .000896953046, z: -.00357141392}
+      rotation: {x: -5.54677831e-16, y: .00843004044, z: -4.26395073e-15, w: .999964476}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightPointer3_skin_JNT
+      position: {x: .0258589908, y: .000645585649, z: -.00169776869}
+      rotation: {x: .000316845195, y: -.0213434808, z: -.0148400422, w: .999662042}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightRing1_skin_JNT
+      position: {x: .111227736, y: -5.43790861e-07, z: -.0394829176}
+      rotation: {x: -.00117459777, y: .234224677, z: -.00629069656, w: .972161472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightRing2_skin_JNT
+      position: {x: .0342510603, y: .000778699585, z: .00102246704}
+      rotation: {x: -2.01990915e-05, y: .00479463814, z: -.00520613743, w: .999974966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightRing3_skin_JNT
+      position: {x: .0277771018, y: .00121134333, z: .00136355171}
+      rotation: {x: 9.61944622e-14, y: .000314155244, z: .00937102269, w: .999956071}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightThumbBase_skin_JNT
+      position: {x: .0276509393, y: .0215391051, z: -.0544010811}
+      rotation: {x: -.374292046, y: .891248882, z: .0995340496, w: -.235953137}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightThumb1_skin_JNT
+      position: {x: -.029532088, y: .0054800394, z: .0172626525}
+      rotation: {x: -.508442402, y: .663400412, z: -.269382536, w: .47835061}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_rightThumb2_skin_JNT
+      position: {x: .00423906511, y: .00298924651, z: -.0290672183}
+      rotation: {x: .072741881, y: .0818168521, z: -.137932971, w: .984372497}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: trunks_sheath_JNT
+      position: {x: .176092386, y: .177619517, z: -.185731426}
+      rotation: {x: .00787017588, y: .0216266271, z: .957001507, w: .289168537}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 31cfdefb35028354ab599d6e5aafed40,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

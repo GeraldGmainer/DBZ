@@ -1,0 +1,3 @@
+﻿public enum MainMenuPage {
+    MAIN_MENU, FIND_SERVER, CREATE_SERVER, LOADING_SCREEN
+}
